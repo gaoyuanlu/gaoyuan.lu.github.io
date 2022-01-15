@@ -12,24 +12,24 @@ redirect_from:
 Education
 ======
 * Ph.D in Pharmaceutical Sciences, 2021 Sep - Present
-  University of Wisconsin-Madison
-  Advisor: Prof. Lingjun Li
-* B.S. in Pharmacy, China Pharmaceutical University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+  * University of Wisconsin-Madison
+  * Advisor: Prof. Lingjun Li
+* M.S. in Pharmacy(Pharmacokinetics), 2017 Sep - 2020 Jun
+  * China Pharmaceutical University
+  * Advisor: Prof. Haiping Hao & Prof. Hui Ye
+* B.S. in Pharmacy, 2013 Sep - 2017 Jun
+  * China Pharmaceutical University
+  * Advisor: Prof. Haiping Hao & Prof. Hui Ye
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2020 Sep - 2021 May: Research Scientist
+  * Shanghai WEIPU Chemical Technology Service Co., Ltd.
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
