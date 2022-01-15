@@ -26,37 +26,9 @@ Work experience
 ======
 * 2020 Sep - 2021 May: Research Scientist
   * Shanghai WEIPU Chemical Technology Service Co., Ltd.
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+   * Use analytical platforms (LC-MS, HPLC, CE, etc.) to characterize Critical Quality Attributes of therapeutic products, including antibodies, ADCs and fusion proteins 
+   * Perform intact mass analysis, peptide mapping, release glycan analysis to support protein characterization
+   * Perform the quantitation analysis of Process & Product Related Impurities in biologics
+   * Provided analytical support for the New Drug Application process to the NMPA
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
