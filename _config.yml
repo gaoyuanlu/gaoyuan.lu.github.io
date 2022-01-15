@@ -83,7 +83,7 @@ author:
   name             : "Gaoyuan Lu"
   avatar           : "profile.png"
   bio              : "I‘m a PhD student in the school of pharmacy at UW-Madison."
-  location         : "UW-Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           : # buxiang gai "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JUJkhQQAAAAJ&hl=zh-CN&oi=ao"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gaoyuan-lu-a70a2b146/"
+  linkedin         : #"https://www.linkedin.com/in/gaoyuan-lu-a70a2b146/"
   orcid            : "https://orcid.org/0000-0001-7955-9541"
   pinterest        :
   soundcloud       :
