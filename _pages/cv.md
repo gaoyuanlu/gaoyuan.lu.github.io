@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pharmaceutical Sciences, 2021 Sep - Present
+  University of Wisconsin-Madison
+  Advisor: Prof. Lingjun Li
+* B.S. in Pharmacy, China Pharmaceutical University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
