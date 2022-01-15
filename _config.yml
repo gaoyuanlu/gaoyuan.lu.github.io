@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gaoyuan Lu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I‘m a PhD student in the school of pharmacy at UW-Madison."
+  location         : "UW-Madison"
   employer         :
   pubmed           : # buxiang gai "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=JUJkhQQAAAAJ&hl=zh-CN&oi=ao"
+  email            : "gaoyuan.lu@protonmail.com"
   researchgate     : "https://www.researchgate.net/profile/Gaoyuan-Lu-2"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7955-9541"
+  linkedin         : "https://www.linkedin.com/in/gaoyuan-lu-a70a2b146/"
+  orcid            : "https://orcid.org/0000-0001-7955-9541"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
