@@ -22,13 +22,3 @@ Education
   * Advisor: Prof. Haiping Hao & Prof. Hui Ye
 
 
-Work experience
-======
-* 2020 Sep - 2021 May: Research Scientist
-  * Shanghai WEIPU Chemical Technology Service Co., Ltd.
-    * Use analytical platforms (LC-MS, HPLC, CE, etc.) to characterize Critical Quality Attributes of therapeutic products, including antibodies, ADCs and fusion proteins 
-    * Perform intact mass analysis, peptide mapping, release glycan analysis to support protein characterization
-    * Perform the quantitation analysis of Process & Product Related Impurities in biologics
-    * Provided analytical support for the New Drug Application process to the NMPA
-
-
